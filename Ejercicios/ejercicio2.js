@@ -1,4 +1,4 @@
-// Ejercicio 1.2: Cuenta regresiva con ciclo 'while'
+// Ejercicio 2: Cuenta regresiva con ciclo 'while'
 console.log("\n--- Cuenta Regresiva ---");
 
 let contador = 10;
