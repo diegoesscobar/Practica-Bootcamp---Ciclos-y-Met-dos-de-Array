@@ -1,0 +1,21 @@
+{
+  "name": "practica-bootcamp---ciclos-y-met-dos-de-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoesscobar/Practica-Bootcamp---Ciclos-y-Met-dos-de-Array.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/diegoesscobar/Practica-Bootcamp---Ciclos-y-Met-dos-de-Array/issues"
+  },
+  "homepage": "https://github.com/diegoesscobar/Practica-Bootcamp---Ciclos-y-Met-dos-de-Array#readme"
+}
